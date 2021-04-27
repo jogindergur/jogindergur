@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jogindergur
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Fltter & Python
+- 🌱 I’m currently learning Flutter & Python
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me jogindergur@gmail.com
 

@@ -34,7 +34,6 @@ I'm a passionate **Full-Stack Mobile Developer** with 8+ years of experience bui
 ## 📫 Let’s Connect
 
 - LinkedIn: https://www.linkedin.com/in/mr-joginder-singh/
-- Email: jogindergur@gmail.com
 
 ---
 
